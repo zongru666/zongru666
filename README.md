@@ -1,5 +1,5 @@
 - 👋 Hi, I’m zongru666
-- 📫 How to reach me, please go to https://zongru666.github.io to konw about me.
+- 📫 How to reach me, please go to https://zongru666.github.io to know about me.
 - 😄 Pronouns: RU
 - ⚡ Fun fact: I do hate two things.One is people do not write code comments,the other is writing code comments.
 
